@@ -1,0 +1,10 @@
+# 本地临时文件
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+
+# 不要提交任何密钥 / token
+*.key
+*.pem
+.env
